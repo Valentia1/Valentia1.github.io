@@ -1,0 +1,55 @@
+.navi 
+{
+     font-size: 100%;
+	display: inline;
+	padding: 1% ;
+    text-decoration:none;
+    color: black;
+    
+  
+}
+body{
+    background-color: skyblue;
+}
+#vid{
+background-color: aliceblue;
+}
+
+nav img {
+	width: 70%;
+	margin:10;
+    align-items: center;
+}
+
+nav a {
+	width: 15%;
+	display:inline-block;
+	font-weight: 600;
+	text-decoration:none;
+	text-transform: uppercase;
+    text-align: center;
+}
+body{
+color: #666666;
+	background-attachment: fixed;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	text-align:center;
+    
+}
+
+video {
+    padding-top: 10px;
+  margin: auto;
+}
+
+
+#contact{
+
+
+		text-align: center;
+		margin: 0 2%;
+    margin-top: 5em;
+    
+}
+
